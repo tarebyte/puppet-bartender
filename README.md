@@ -1,6 +1,6 @@
 # Bartender App Puppet Module for Boxen
 
-**[Bartender](http://www.macbartender.com)** Bartender lets you organize your menu bar apps, by hiding them, rearranging them, or moving them to Bartender's Bar.
+**[Bartender](http://www.macbartender.com)** lets you organize your menu bar apps, by hiding them, rearranging them, or moving them to Bartender's Bar.
 
 
 [![Build Status](https://travis-ci.org/tarebyte/puppet-bartender.svg?branch=master)](https://travis-ci.org/tarebyte/puppet-bartender)
